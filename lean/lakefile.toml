@@ -1,0 +1,6 @@
+name = "prooflab"
+version = "0.1.0"
+defaultTargets = ["ProofLab"]
+
+[[lean_lib]]
+name = "ProofLab"

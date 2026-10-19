@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.coverage
+
+# Node.js
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Environment and local data
+.env
+.env.*
+!.env.example
+*.db
+
+# Lean build artifacts
+.lean/
+.lake/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
